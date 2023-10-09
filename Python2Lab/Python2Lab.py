@@ -22,3 +22,9 @@ while i<6:
     turtle.forward(650)
     turtle.left(144)
     i+=1 
+turtle.up()
+turtle.goto(-200,-308)
+turtle.down()
+turtle.circle(350)
+turtle.up()
+turtle.done()
